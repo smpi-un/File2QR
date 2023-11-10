@@ -3,7 +3,7 @@ name = "file2qr"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "Shimpei Ueno", email = "s_ueno@sugino.com" }
+    { name = "Shimpei Ueno", email = "" }
 ]
 dependencies = [
     "qrcode>=7.4.2",
